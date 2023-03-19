@@ -1,5 +1,5 @@
 # 💫 Hi this is Shradha Mahajan
-🔭 I’m currently working on Image Classification<br>🌱 I’m currently learning Machine learning, Node js<br>👨‍💻 All of my projects are available at : https://shradhamahajan.netlify.app<br>📄 Know about my experiences : https://drive.google.com/file/d/1CkHTBKVx1NVMFdFTAM9vMPAlPo8f_CFD/view?usp=sharing<br>📫 How to reach me : shradham2612@gmail.com
+🔭 I’m currently working on Image Classification<br>🌱 I’m currently learning Machine learning, Node js<br>👨‍💻 All of my projects are available at : https://shradhamahajan.netlify.app<br>📄 Know about my experiences :shorturl.at/fkmI1<br>📫 How to reach me : shradham2612@gmail.com
 
 
 ## 🌐 Socials:
